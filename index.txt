@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+ <head>
+		<title>Horari 2 DAM</title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+ </head>
+	<style type="text/css">
+		th {
+			color:red;
+		}
+		td {
+			color:blue;
+			text-align:center;
+			
+		}
+		strong{
+			color:black;
+		}
+	</style>
+ <body>
+	<table  WIDTH="100%" border="1" cellspacing="0">
+		<caption>2 DAM</caption>
+		<tr>
+			<th bgcolor="D3D3D3"></th>
+			<th bgcolor="D3D3D3">Dilluns</th>
+			<th bgcolor="D3D3D3">Dimarts</th>
+			<th bgcolor="D3D3D3">Dimecres</th>
+			<th bgcolor="D3D3D3">Dijous</th>
+			<th bgcolor="D3D3D3">Divendres</th>
+		</tr>
+		<tr>
+			<th bgcolor="D3D3D3" height="80">15:00-15:55</th>
+			<td bgcolor="FFFF66" rowspan="2">
+				<p>
+					<strong>Acces a Dades</strong>
+				</p>
+			Mercedes Zorrilla</td>
+			<td bgcolor="FFCCCC" rowspan="3">
+				<p>
+					<strong>Desenvolupament d’interfícies</strong>
+				</p>
+			Marta Farré</td>
+			<td  bgcolor="D3D3D3"></td>
+			<td bgcolor="FFCC00" rowspan="3">
+				<p>
+					<strong>Programació multimèdia i dispostius mòbils</strong>
+				</p>
+			Marc Nicolau</td>
+			<td bgcolor="66FFFF">
+				<p>
+					<strong>Programació de serveis i processos</strong>
+				</p>
+			Toni Ricart</td>
+		</tr>
+		<tr>
+			<th bgcolor="D3D3D3" height="80">15:55-16:50</th>
+			<td  bgcolor="D3D3D3"></td>
+			<td bgcolor="FFFF66" rowspan="2">
+				<p>
+					<strong>Acces a Dades</strong>
+				</p>
+			Mercedes Zorrilla</td>
+		</tr>
+		<tr>
+			<th bgcolor="D3D3D3" height="80">16:50-17:45</th>
+			<td bgcolor="FFCC00">
+				<p>
+					<strong>Programació multimèdia i dispostius mòbils</strong>
+				</p>
+			Marc Nicolau</td>
+			<td bgcolor="FFCC00">
+				<p>
+					<strong>17:00 Programació multimèdia i dispostius mòbils</strong>
+				</p>
+			Marc Nicolau</td>
+		</tr>
+		<tr>
+			<th bgcolor="D3D3D3" height="80">17:45-18:10</th>
+			<th  bgcolor="D3D3D3">PATI</th>
+			<th  bgcolor="D3D3D3">PATI</th>
+			<td>
+				<p>
+					<strong>17:55 Sistemes de gestió empresarial</strong>
+				</p>
+			Jep Masanas</td>
+			<th  bgcolor="D3D3D3">PATI</th>
+			<th  bgcolor="D3D3D3">PATI</th>
+		</tr>
+		<tr>
+			<th bgcolor="D3D3D3" height="80">18:10-19:05</th>
+			<td bgcolor="FFCC00" rowspan="2">
+				<p>
+					<strong>Programació multimèdia i dispostius mòbils</strong>
+				</p>
+			Marc Nicolau</td>
+			<td bgcolor="66FFFF">
+				<p>
+					<strong>Programació de serveis i processos</strong>
+				</p>
+			Toni Ricart</td>
+			<th bgcolor="D3D3D3">18:50 PATI 19:05</th>
+			<td bgcolor="66FFFF">
+				<p>
+					<strong>Entorns de desenvolupament</strong>
+				</p>
+			Toni Ricart</td>
+			<td bgcolor="66FFFF" rowspan="2">
+				<p>
+					<strong>Entorns de desenvolupament</strong>
+				</p>
+			Toni Ricart</td>
+		</tr>
+		<tr>
+			<th bgcolor="D3D3D3" height="80">19:05-20:00</th>
+			<td bgcolor="FFFF66" rowspan="2">
+				<p>
+					<strong>Acces a Dades</strong>
+				</p>
+			Mercedes Zorrilla</td>
+			<td rowspan="2">
+				<p>
+					<strong>19:10 Sistemes de gestió empresarial</strong>
+				</p>
+			Jep Masanas</td>
+			<td bgcolor="66FFFF" rowspan="2">
+				<p>
+					<strong>Programació de serveis i processos</strong>
+				</p>
+			Toni Ricart</td>
+		</tr>
+		<tr>
+			<th bgcolor="D3D3D3" height="80">20:00-20:55</th>
+			<td  bgcolor="D3D3D3"></td>
+			<td  bgcolor="D3D3D3"></td>
+		</tr>
+	</table>
+</body>
+</html>
