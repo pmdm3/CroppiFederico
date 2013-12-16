@@ -119,7 +119,7 @@ class peticionWeb extends Thread {
 					linea = ficheroLocal.readLine();
 
 					if (linea != null) {
-						// sleep(500);
+						 sleep(500);
 						out.println(linea);
 					}
 				} while (linea != null);
